@@ -1,0 +1,4 @@
+r
+loadfile usb_test.hex
+r
+q
